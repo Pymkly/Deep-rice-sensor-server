@@ -1,0 +1,209 @@
+2025-07-18 10:07:22,677 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'humidity': 57.5, 'temperature': 21.9}, 'timestamp': '2025-07-18T10:07:22.677040'}
+2025-07-18 10:07:52,897 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 19.6, 'humidity': 64.9}, 'timestamp': '2025-07-18T10:07:52.897636'}
+2025-07-18 10:08:23,263 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'humidity': 55.9, 'temperature': 20.0}, 'timestamp': '2025-07-18T10:08:23.263293'}
+2025-07-18 10:08:53,628 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'humidity': 55.4, 'temperature': 20.1}, 'timestamp': '2025-07-18T10:08:53.628251'}
+2025-07-18 10:09:24,016 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'humidity': 54.9, 'temperature': 20.2}, 'timestamp': '2025-07-18T10:09:24.016901'}
+2025-07-18 10:09:54,649 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'humidity': 54.9, 'temperature': 20.2}, 'timestamp': '2025-07-18T10:09:54.649708'}
+2025-07-18 10:10:25,271 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'humidity': 55.1, 'temperature': 20.2}, 'timestamp': '2025-07-18T10:10:25.271329'}
+2025-07-18 10:10:55,731 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'P': 0.0, 'N': 0.0, 'K': 0.0}, 'timestamp': '2025-07-18T10:10:55.731323'}
+2025-07-18 10:11:26,021 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 0.0, 'K': 0.0, 'P': 0.0}, 'timestamp': '2025-07-18T10:11:26.021906'}
+2025-07-18 10:11:56,589 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'K': 102.0, 'P': 51.0, 'N': 36.0}, 'timestamp': '2025-07-18T10:11:56.589124'}
+2025-07-18 10:12:26,781 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'K': 102.0, 'P': 51.0, 'N': 36.0}, 'timestamp': '2025-07-18T10:12:26.781697'}
+2025-07-18 10:12:58,494 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'K': 102.0, 'P': 51.0, 'N': 36.0}, 'timestamp': '2025-07-18T10:12:58.494043'}
+2025-07-18 10:13:29,130 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'K': 102.0, 'P': 51.0, 'N': 36.0}, 'timestamp': '2025-07-18T10:13:29.130342'}
+2025-07-18 10:13:59,729 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'K': 102.0, 'P': 51.0, 'N': 36.0}, 'timestamp': '2025-07-18T10:13:59.729786'}
+2025-07-18 10:14:30,332 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'K': 102.0, 'P': 51.0, 'N': 36.0}, 'timestamp': '2025-07-18T10:14:30.332362'}
+2025-07-18 10:15:00,690 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 23.18}, 'timestamp': '2025-07-18T10:15:00.690121'}
+2025-07-18 10:15:08,147 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 25.13}, 'timestamp': '2025-07-18T10:15:08.147679'}
+2025-07-18 10:15:08,289 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 25.13}, 'timestamp': '2025-07-18T10:15:08.289845'}
+2025-07-18 10:15:08,420 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 24.15}, 'timestamp': '2025-07-18T10:15:08.420085'}
+2025-07-18 10:15:08,555 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 25.68}, 'timestamp': '2025-07-18T10:15:08.555274'}
+2025-07-18 10:15:08,690 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 24.71}, 'timestamp': '2025-07-18T10:15:08.690285'}
+2025-07-18 10:15:08,812 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 25.54}, 'timestamp': '2025-07-18T10:15:08.812406'}
+2025-07-18 10:17:24,468 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'humidity': 57.5, 'temperature': 21.9}, 'timestamp': '2025-07-18T10:17:24.468625'}
+2025-07-18 10:17:24,696 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 19.6, 'humidity': 64.9}, 'timestamp': '2025-07-18T10:17:24.696467'}
+2025-07-18 10:17:24,820 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'humidity': 55.9, 'temperature': 20.0}, 'timestamp': '2025-07-18T10:17:24.820103'}
+2025-07-18 10:17:24,971 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'humidity': 55.4, 'temperature': 20.1}, 'timestamp': '2025-07-18T10:17:24.971044'}
+2025-07-18 10:17:25,098 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'humidity': 54.9, 'temperature': 20.2}, 'timestamp': '2025-07-18T10:17:25.098314'}
+2025-07-18 10:17:25,218 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'humidity': 54.9, 'temperature': 20.2}, 'timestamp': '2025-07-18T10:17:25.218753'}
+2025-07-18 10:17:25,356 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'humidity': 55.1, 'temperature': 20.2}, 'timestamp': '2025-07-18T10:17:25.356247'}
+2025-07-18 10:17:25,465 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'humidity': 55.4, 'temperature': 20.3}, 'timestamp': '2025-07-18T10:17:25.465734'}
+2025-07-18 10:17:25,659 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'P': 0.0, 'N': 0.0, 'K': 0.0}, 'timestamp': '2025-07-18T10:17:25.659382'}
+2025-07-18 10:17:25,831 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 0.0, 'K': 0.0, 'P': 0.0}, 'timestamp': '2025-07-18T10:17:25.831184'}
+2025-07-18 10:17:25,979 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'K': 102.0, 'P': 51.0, 'N': 36.0}, 'timestamp': '2025-07-18T10:17:25.979417'}
+2025-07-18 10:17:26,103 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'K': 102.0, 'P': 51.0, 'N': 36.0}, 'timestamp': '2025-07-18T10:17:26.103438'}
+2025-07-18 10:17:26,262 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'K': 102.0, 'P': 51.0, 'N': 36.0}, 'timestamp': '2025-07-18T10:17:26.262485'}
+2025-07-18 10:17:26,423 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'K': 102.0, 'P': 51.0, 'N': 36.0}, 'timestamp': '2025-07-18T10:17:26.423285'}
+2025-07-18 10:17:26,552 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'K': 102.0, 'P': 51.0, 'N': 36.0}, 'timestamp': '2025-07-18T10:17:26.552643'}
+2025-07-18 10:17:26,689 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'K': 102.0, 'P': 51.0, 'N': 36.0}, 'timestamp': '2025-07-18T10:17:26.689664'}
+2025-07-18 10:17:26,812 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 25.4}, 'timestamp': '2025-07-18T10:17:26.812161'}
+2025-07-18 10:39:25,848 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'humidity': 54.9, 'temperature': 20.3}, 'timestamp': '2025-07-18T10:39:25.848085'}
+2025-07-18 10:39:26,931 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'humidity': 53.9, 'temperature': 20.3}, 'timestamp': '2025-07-18T10:39:26.931530'}
+2025-07-18 10:39:28,027 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'humidity': 54.2, 'temperature': 20.2}, 'timestamp': '2025-07-18T10:39:28.027479'}
+2025-07-18 10:39:29,180 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'K': 102.0, 'P': 51.0, 'N': 36.0}, 'timestamp': '2025-07-18T10:39:29.180215'}
+2025-07-18 10:39:30,266 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'P': 51.0, 'K': 102.0, 'N': 36.0}, 'timestamp': '2025-07-18T10:39:30.266226'}
+2025-07-18 10:39:31,357 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 36.0, 'K': 102.0, 'P': 51.0}, 'timestamp': '2025-07-18T10:39:31.357202'}
+2025-07-18 10:39:32,472 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 25.82}, 'timestamp': '2025-07-18T10:39:32.472748'}
+2025-07-18 10:39:33,547 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 22.49}, 'timestamp': '2025-07-18T10:39:33.547855'}
+2025-07-18 10:39:34,665 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 24.85}, 'timestamp': '2025-07-18T10:39:34.665463'}
+2025-07-18 11:02:11,785 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'humidity': 54.4, 'temperature': 20.2}, 'timestamp': '2025-07-18T11:02:11.785805'}
+2025-07-18 11:02:13,180 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'humidity': 54.3, 'temperature': 20.2}, 'timestamp': '2025-07-18T11:02:13.180823'}
+2025-07-18 11:02:14,547 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 20.3, 'humidity': 53.5}, 'timestamp': '2025-07-18T11:02:14.547965'}
+2025-07-18 11:02:15,934 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 36.0, 'K': 102.0, 'P': 51.0}, 'timestamp': '2025-07-18T11:02:15.934172'}
+2025-07-18 11:02:17,352 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 36.0, 'K': 102.0, 'P': 51.0}, 'timestamp': '2025-07-18T11:02:17.352186'}
+2025-07-18 11:02:18,746 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 36.0, 'P': 51.0, 'K': 102.0}, 'timestamp': '2025-07-18T11:02:18.746077'}
+2025-07-18 11:02:20,158 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 24.43}, 'timestamp': '2025-07-18T11:02:20.158718'}
+2025-07-18 11:02:21,544 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 24.57}, 'timestamp': '2025-07-18T11:02:21.543994'}
+2025-07-18 11:02:22,950 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 24.01}, 'timestamp': '2025-07-18T11:02:22.950089'}
+2025-07-18 11:03:09,662 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'humidity': 53.3, 'temperature': 20.4}, 'timestamp': '2025-07-18T11:03:09.662295'}
+2025-07-18 11:03:09,788 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 36.0, 'P': 51.0, 'K': 102.0}, 'timestamp': '2025-07-18T11:03:09.788967'}
+2025-07-18 11:03:10,071 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 25.4}, 'timestamp': '2025-07-18T11:03:10.071575'}
+2025-07-18 11:07:11,042 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'humidity': 53.3, 'temperature': 20.4}, 'timestamp': '2025-07-18T11:07:11.042945'}
+2025-07-18 11:07:11,189 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'P': 51.0, 'N': 36.0, 'K': 102.0}, 'timestamp': '2025-07-18T11:07:11.189004'}
+2025-07-18 11:07:11,314 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 25.4}, 'timestamp': '2025-07-18T11:07:11.314095'}
+2025-07-18 11:17:12,114 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 20.4, 'humidity': 53.3}, 'timestamp': '2025-07-18T11:17:12.114023'}
+2025-07-18 11:17:12,265 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 36.0, 'P': 51.0, 'K': 102.0}, 'timestamp': '2025-07-18T11:17:12.265266'}
+2025-07-18 11:17:12,423 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 22.77}, 'timestamp': '2025-07-18T11:17:12.423078'}
+2025-07-18 11:28:20,729 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 20.4, 'humidity': 53.6}, 'timestamp': '2025-07-18T11:28:20.729757'}
+2025-07-18 11:28:21,106 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 20.6, 'humidity': 52.7}, 'timestamp': '2025-07-18T11:28:21.106466'}
+2025-07-18 11:28:21,853 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 36.0, 'P': 51.0, 'K': 102.0}, 'timestamp': '2025-07-18T11:28:21.853627'}
+2025-07-18 11:28:22,385 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'K': 102.0, 'N': 36.0, 'P': 51.0}, 'timestamp': '2025-07-18T11:28:22.385704'}
+2025-07-18 11:28:22,947 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 24.29}, 'timestamp': '2025-07-18T11:28:22.947104'}
+2025-07-18 11:28:23,366 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 22.49}, 'timestamp': '2025-07-18T11:28:23.366463'}
+2025-07-18 11:32:02,791 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 20.6, 'humidity': 52.6}, 'timestamp': '2025-07-18T11:32:02.791389'}
+2025-07-18 11:32:02,966 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'K': 102.0, 'N': 36.0, 'P': 51.0}, 'timestamp': '2025-07-18T11:32:02.966115'}
+2025-07-18 11:32:03,146 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 24.71}, 'timestamp': '2025-07-18T11:32:03.146533'}
+2025-07-18 11:42:05,272 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 20.6, 'humidity': 51.8}, 'timestamp': '2025-07-18T11:42:05.272346'}
+2025-07-18 11:42:05,447 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 36.0, 'P': 51.0, 'K': 102.0}, 'timestamp': '2025-07-18T11:42:05.447262'}
+2025-07-18 11:42:05,614 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 25.82}, 'timestamp': '2025-07-18T11:42:05.614543'}
+2025-07-18 11:52:05,961 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 20.7, 'humidity': 51.1}, 'timestamp': '2025-07-18T11:52:05.961377'}
+2025-07-18 11:52:06,123 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 36.0, 'P': 51.0, 'K': 102.0}, 'timestamp': '2025-07-18T11:52:06.123085'}
+2025-07-18 11:52:06,276 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 25.54}, 'timestamp': '2025-07-18T11:52:06.276682'}
+2025-07-18 12:02:10,194 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 20.7, 'humidity': 49.8}, 'timestamp': '2025-07-18T12:02:10.194078'}
+2025-07-18 12:02:10,352 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 36.0, 'P': 51.0, 'K': 102.0}, 'timestamp': '2025-07-18T12:02:10.352863'}
+2025-07-18 12:02:10,486 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 24.71}, 'timestamp': '2025-07-18T12:02:10.486662'}
+2025-07-18 12:12:12,433 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 20.6, 'humidity': 49.5}, 'timestamp': '2025-07-18T12:12:12.433466'}
+2025-07-18 12:12:12,569 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 36.0, 'P': 51.0, 'K': 102.0}, 'timestamp': '2025-07-18T12:12:12.569838'}
+2025-07-18 12:12:12,700 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 25.13}, 'timestamp': '2025-07-18T12:12:12.700114'}
+2025-07-18 12:22:16,664 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 20.6, 'humidity': 49.1}, 'timestamp': '2025-07-18T12:22:16.664639'}
+2025-07-18 12:22:16,819 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 36.0, 'P': 51.0, 'K': 103.0}, 'timestamp': '2025-07-18T12:22:16.819053'}
+2025-07-18 12:22:16,982 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 24.29}, 'timestamp': '2025-07-18T12:22:16.982471'}
+2025-07-18 12:32:17,442 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 20.6, 'humidity': 48.8}, 'timestamp': '2025-07-18T12:32:17.442693'}
+2025-07-18 12:32:17,604 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 36.0, 'P': 51.0, 'K': 103.0}, 'timestamp': '2025-07-18T12:32:17.604111'}
+2025-07-18 12:32:17,780 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 24.57}, 'timestamp': '2025-07-18T12:32:17.780097'}
+2025-07-18 12:42:20,855 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 20.6, 'humidity': 49.0}, 'timestamp': '2025-07-18T12:42:20.855434'}
+2025-07-18 12:42:21,013 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 36.0, 'P': 51.0, 'K': 102.0}, 'timestamp': '2025-07-18T12:42:21.013820'}
+2025-07-18 12:42:21,177 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 24.71}, 'timestamp': '2025-07-18T12:42:21.177741'}
+2025-07-18 12:52:23,768 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 20.6, 'humidity': 49.5}, 'timestamp': '2025-07-18T12:52:23.768311'}
+2025-07-18 12:52:23,921 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 36.0, 'P': 51.0, 'K': 102.0}, 'timestamp': '2025-07-18T12:52:23.921455'}
+2025-07-18 12:52:24,056 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 25.4}, 'timestamp': '2025-07-18T12:52:24.056923'}
+2025-07-18 13:02:28,213 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 20.7, 'humidity': 49.4}, 'timestamp': '2025-07-18T13:02:28.213616'}
+2025-07-18 13:02:28,375 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 36.0, 'P': 51.0, 'K': 103.0}, 'timestamp': '2025-07-18T13:02:28.375359'}
+2025-07-18 13:02:28,536 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 23.88}, 'timestamp': '2025-07-18T13:02:28.536100'}
+2025-07-18 13:12:30,131 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 20.7, 'humidity': 48.9}, 'timestamp': '2025-07-18T13:12:30.131987'}
+2025-07-18 13:12:30,307 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 36.0, 'P': 51.0, 'K': 102.0}, 'timestamp': '2025-07-18T13:12:30.307457'}
+2025-07-18 13:12:30,452 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 23.18}, 'timestamp': '2025-07-18T13:12:30.452001'}
+2025-07-18 13:17:03,854 - INFO - 3 changes detected
+2025-07-18 13:17:18,444 - INFO - 1 change detected
+2025-07-18 13:27:30,262 - INFO - 3 changes detected
+2025-07-18 13:27:44,954 - INFO - 1 change detected
+2025-07-18 13:33:22,162 - INFO - 3 changes detected
+2025-07-18 13:33:31,387 - INFO - 1 change detected
+2025-07-18 13:33:31,752 - INFO - 1 change detected
+2025-07-18 13:37:06,537 - INFO - 1 change detected
+2025-07-18 13:37:08,419 - INFO - 6 changes detected
+2025-07-18 13:38:16,854 - INFO - 1 change detected
+2025-07-18 13:38:19,031 - INFO - 1 change detected
+2025-07-18 13:38:25,279 - INFO - 3 changes detected
+2025-07-18 13:38:25,950 - INFO - 1 change detected
+2025-07-18 13:41:14,308 - INFO - 3 changes detected
+2025-07-18 13:41:15,276 - INFO - 9 changes detected
+2025-07-18 13:41:44,161 - INFO - 4 changes detected
+2025-07-18 13:42:32,758 - INFO - 6 changes detected
+2025-07-18 13:42:54,248 - INFO - 7 changes detected
+2025-07-18 13:43:12,643 - INFO - 9 changes detected
+2025-07-18 13:43:30,272 - INFO - 7 changes detected
+2025-07-18 13:43:42,917 - INFO - 9 changes detected
+2025-07-18 13:44:12,409 - INFO - 7 changes detected
+2025-07-18 13:44:18,774 - INFO - 6 changes detected
+2025-07-18 13:44:46,057 - INFO - 7 changes detected
+2025-07-18 13:46:05,769 - INFO - 7 changes detected
+2025-07-18 13:48:13,525 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 20.7, 'humidity': 48.9}, 'timestamp': '2025-07-18T13:48:13.525364'}
+2025-07-18 13:48:13,699 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 20.7, 'humidity': 48.7}, 'timestamp': '2025-07-18T13:48:13.699401'}
+2025-07-18 13:48:13,887 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 20.9, 'humidity': 48.0}, 'timestamp': '2025-07-18T13:48:13.887185'}
+2025-07-18 13:48:14,053 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 21.0, 'humidity': 47.7}, 'timestamp': '2025-07-18T13:48:14.053600'}
+2025-07-18 13:48:14,266 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 36.0, 'P': 51.0, 'K': 102.0}, 'timestamp': '2025-07-18T13:48:14.266024'}
+2025-07-18 13:48:14,420 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 36.0, 'P': 51.0, 'K': 103.0}, 'timestamp': '2025-07-18T13:48:14.420291'}
+2025-07-18 13:48:14,602 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 36.0, 'P': 51.0, 'K': 103.0}, 'timestamp': '2025-07-18T13:48:14.602104'}
+2025-07-18 13:48:14,753 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 36.0, 'P': 51.0, 'K': 103.0}, 'timestamp': '2025-07-18T13:48:14.753262'}
+2025-07-18 13:48:14,944 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 23.88}, 'timestamp': '2025-07-18T13:48:14.944444'}
+2025-07-18 13:48:15,104 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 24.57}, 'timestamp': '2025-07-18T13:48:15.104652'}
+2025-07-18 13:48:15,299 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 25.68}, 'timestamp': '2025-07-18T13:48:15.298698'}
+2025-07-18 13:48:15,471 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 24.29}, 'timestamp': '2025-07-18T13:48:15.471558'}
+2025-07-18 13:51:21,413 - INFO - 3 changes detected
+2025-07-18 13:51:36,137 - INFO - 1 change detected
+2025-07-18 13:58:11,976 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 21.0, 'humidity': 47.8}, 'timestamp': '2025-07-18T13:58:11.976629'}
+2025-07-18 13:58:12,295 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 36.0, 'P': 51.0, 'K': 103.0}, 'timestamp': '2025-07-18T13:58:12.295483'}
+2025-07-18 13:58:12,441 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 25.82}, 'timestamp': '2025-07-18T13:58:12.441366'}
+2025-07-18 14:01:11,497 - INFO - 3 changes detected
+2025-07-18 14:01:19,799 - INFO - 1 change detected
+2025-07-18 14:08:13,596 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 21.1, 'humidity': 48.0}, 'timestamp': '2025-07-18T14:08:13.596333'}
+2025-07-18 14:08:13,806 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 0.0, 'P': 0.0, 'K': 0.0}, 'timestamp': '2025-07-18T14:08:13.806871'}
+2025-07-18 14:08:13,992 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 0.41}, 'timestamp': '2025-07-18T14:08:13.992634'}
+2025-07-18 14:18:17,178 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 21.1, 'humidity': 48.6}, 'timestamp': '2025-07-18T14:18:17.178402'}
+2025-07-18 14:18:17,549 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 0.0, 'P': 0.0, 'K': 0.0}, 'timestamp': '2025-07-18T14:18:17.549363'}
+2025-07-18 14:18:18,219 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 1.94}, 'timestamp': '2025-07-18T14:18:18.219065'}
+2025-07-18 14:28:20,925 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 21.1, 'humidity': 48.3}, 'timestamp': '2025-07-18T14:28:20.925980'}
+2025-07-18 14:28:21,144 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 0.0, 'P': 0.0, 'K': 0.0}, 'timestamp': '2025-07-18T14:28:21.144295'}
+2025-07-18 14:28:21,356 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 2.21}, 'timestamp': '2025-07-18T14:28:21.355895'}
+2025-07-18 14:38:24,593 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 21.1, 'humidity': 47.8}, 'timestamp': '2025-07-18T14:38:24.592925'}
+2025-07-18 14:38:24,833 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 0.0, 'P': 0.0, 'K': 0.0}, 'timestamp': '2025-07-18T14:38:24.833635'}
+2025-07-18 14:38:25,016 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 2.21}, 'timestamp': '2025-07-18T14:38:25.016304'}
+2025-07-18 14:40:42,491 - INFO - 3 changes detected
+2025-07-18 14:40:50,983 - INFO - 1 change detected
+2025-07-18 14:48:29,166 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 21.2, 'humidity': 47.8}, 'timestamp': '2025-07-18T14:48:29.166064'}
+2025-07-18 14:48:29,368 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 0.0, 'P': 0.0, 'K': 0.0}, 'timestamp': '2025-07-18T14:48:29.368177'}
+2025-07-18 14:48:29,556 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 2.08}, 'timestamp': '2025-07-18T14:48:29.556661'}
+2025-07-18 14:58:30,126 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 21.1, 'humidity': 47.3}, 'timestamp': '2025-07-18T14:58:30.126484'}
+2025-07-18 14:58:30,288 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 0.0, 'P': 0.0, 'K': 0.0}, 'timestamp': '2025-07-18T14:58:30.288840'}
+2025-07-18 14:58:30,465 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 0.0}, 'timestamp': '2025-07-18T14:58:30.465385'}
+2025-07-18 15:08:33,383 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 21.1, 'humidity': 48.0}, 'timestamp': '2025-07-18T15:08:33.383539'}
+2025-07-18 15:08:33,571 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 0.0, 'P': 0.0, 'K': 0.0}, 'timestamp': '2025-07-18T15:08:33.571530'}
+2025-07-18 15:08:33,746 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 1.1}, 'timestamp': '2025-07-18T15:08:33.746383'}
+2025-07-18 15:18:36,897 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 21.0, 'humidity': 48.2}, 'timestamp': '2025-07-18T15:18:36.897041'}
+2025-07-18 15:18:37,059 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 0.0, 'P': 0.0, 'K': 0.0}, 'timestamp': '2025-07-18T15:18:37.059535'}
+2025-07-18 15:18:37,222 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 0.97}, 'timestamp': '2025-07-18T15:18:37.222377'}
+2025-07-18 15:28:40,389 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 21.0, 'humidity': 48.8}, 'timestamp': '2025-07-18T15:28:40.389627'}
+2025-07-18 15:28:40,548 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 21.0, 'humidity': 49.1}, 'timestamp': '2025-07-18T15:28:40.548184'}
+2025-07-18 15:28:40,711 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 0.0, 'P': 0.0, 'K': 0.0}, 'timestamp': '2025-07-18T15:28:40.711715'}
+2025-07-18 15:28:40,873 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 0.0, 'P': 0.0, 'K': 0.0}, 'timestamp': '2025-07-18T15:28:40.873795'}
+2025-07-18 15:28:41,051 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 1.38}, 'timestamp': '2025-07-18T15:28:41.051662'}
+2025-07-18 15:28:41,206 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 1.24}, 'timestamp': '2025-07-18T15:28:41.206028'}
+2025-07-18 15:38:45,016 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 21.0, 'humidity': 49.0}, 'timestamp': '2025-07-18T15:38:45.016109'}
+2025-07-18 15:38:45,217 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 0.0, 'P': 0.0, 'K': 0.0}, 'timestamp': '2025-07-18T15:38:45.216807'}
+2025-07-18 15:38:45,337 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 0.13}, 'timestamp': '2025-07-18T15:38:45.337592'}
+2025-07-18 15:48:48,753 - INFO - data received{'type': 'DHT22', 'ref': 'POTO#0001', 'data': {'temperature': 21.0, 'humidity': 47.8}, 'timestamp': '2025-07-18T15:48:48.753746'}
+2025-07-18 15:48:48,959 - INFO - data received{'type': 'NPK', 'ref': 'POTO#0001', 'data': {'N': 0.0, 'P': 0.0, 'K': 0.0}, 'timestamp': '2025-07-18T15:48:48.959316'}
+2025-07-18 15:48:49,083 - INFO - data received{'type': 'WATER_LEVEL', 'ref': 'POTO#0001', 'data': {'level': 2.08}, 'timestamp': '2025-07-18T15:48:49.083643'}
+2025-08-20 09:10:29,048 - INFO - 3 changes detected
+2025-08-20 09:10:29,787 - INFO - 1 change detected
+2025-08-20 09:16:09,959 - INFO - 3 changes detected
+2025-08-20 09:16:24,619 - INFO - 1 change detected
+2025-08-20 09:24:10,977 - INFO - 3 changes detected
+2025-08-20 09:24:23,569 - INFO - 1 change detected
+2025-08-20 09:28:54,290 - INFO - 6 changes detected
+2025-08-20 09:28:54,657 - INFO - 1 change detected
+2025-08-20 09:29:04,339 - INFO - 2 changes detected
+2025-08-20 09:29:43,792 - INFO - 1 change detected
+2025-08-20 09:29:44,146 - INFO - 3 changes detected
+2025-08-20 09:29:44,516 - INFO - 7 changes detected
+2025-08-20 09:29:44,879 - INFO - 2 changes detected
+2025-08-20 09:32:02,498 - INFO - 7 changes detected
+2025-08-20 09:32:09,566 - INFO - 1 change detected
+2025-08-20 12:11:58,710 - INFO - 13 changes detected
+2025-08-20 12:11:59,113 - INFO - 17 changes detected
+2025-08-20 12:11:59,530 - INFO - 21 changes detected
+2025-08-20 12:12:00,189 - INFO - 34 changes detected
+2025-08-20 12:12:00,557 - INFO - 17 changes detected
+2025-08-20 12:12:01,169 - INFO - 30 changes detected
+2025-08-20 12:12:01,525 - INFO - 17 changes detected

@@ -1,0 +1,3 @@
+{
+  "SENSOR_COLLECTIONS" : ["DHT22","NPK","WATER_LEVEL"]
+}
